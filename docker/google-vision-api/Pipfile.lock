@@ -50,11 +50,11 @@
         },
         "google-api-core": {
             "hashes": [
-                "sha256:6815207a8b422e9da42c200681603f304b25f98c98b675a9db9fdc3717e44280",
-                "sha256:85d2074f2c8f9c07e614d7f978767d71ceb7d40647814ef4236d3a0ef671ee75"
+                "sha256:29d01d0599da4188331b9afd7c1b03ce155ad5047e461cf9ce3223a873fec729",
+                "sha256:bd4f418745aac8b4781c005056bac01616cafdef20fec95880cbd6f61c23f7f0"
             ],
             "index": "pypi",
-            "version": "==1.31.5"
+            "version": "==1.31.6"
         },
         "google-api-python-client": {
             "hashes": [
