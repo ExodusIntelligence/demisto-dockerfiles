@@ -126,11 +126,11 @@
         },
         "google-api-python-client": {
             "hashes": [
-                "sha256:4527f7b8518a795624ab68da412d55628f83b98c67dd6a5d6edf725454f8b30b",
-                "sha256:600c43d7eac6e3536fdcad1d14ba9ee503edf4c7db0bd827e791bbf03b9f1330"
+                "sha256:159aa2d5f67998f39b06f28f38d6621389dda099c56f0fde46e9070dabdd5b40",
+                "sha256:a45fd3f318f79b3498d31de7e7db16d70b01672a755c88f56841183db908c576"
             ],
             "index": "pypi",
-            "version": "==2.48.0"
+            "version": "==2.50.0"
         },
         "google-auth": {
             "hashes": [
