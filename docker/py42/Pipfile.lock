@@ -87,11 +87,11 @@
         },
         "py42": {
             "hashes": [
-                "sha256:6b266f0cdbcfd401a3ea622e8c65f1b832f090b5f0da70a6f5424fd5b1207f30",
-                "sha256:985cd6a820f87c8df8c7cdcb8e9bd40369f1192e9437536f451ebe5a65a16c13"
+                "sha256:06fa380ce476333b11e323f0a9f587abeb049c279d1ccce305f67b95b9efa6f4",
+                "sha256:4082c39a04122b7762c2551859512b2caa822da1a4e7d4da98308c8a95996e84"
             ],
             "index": "pypi",
-            "version": "==1.23.0"
+            "version": "==1.24.0"
         },
         "pysocks": {
             "hashes": [
