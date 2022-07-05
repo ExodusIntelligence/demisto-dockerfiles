@@ -21,7 +21,7 @@
                 "sha256:84c85a9078b11105f04f3036a9482ae10e4621616db313fe045dd24743a0820d",
                 "sha256:fe86415d55e84719d75f8b69414f6438ac3547d2078ab91b67e779ef69378412"
             ],
-            "markers": "python_full_version >= '3.6.0'",
+            "markers": "python_version >= '3.6'",
             "version": "==2022.6.15"
         },
         "charset-normalizer": {
@@ -29,7 +29,7 @@
                 "sha256:5189b6f22b01957427f35b6a08d9a0bc45b46d3788ef5a92e978433c7a35f8a5",
                 "sha256:575e708016ff3a5e3681541cb9d79312c416835686d054a23accb873b254f413"
             ],
-            "markers": "python_full_version >= '3.6.0'",
+            "markers": "python_version >= '3.6'",
             "version": "==2.1.0"
         },
         "idna": {
@@ -50,11 +50,11 @@
         },
         "sixgill-clients": {
             "hashes": [
-                "sha256:b4eb6f012300be98b51fc9b53da6d72132ae78e7967d0fab53f15fc1097881c3",
-                "sha256:c96d162c69c16ffc8886583d7ab6e15a948118ac422e49cebf13cd275d1dd1bb"
+                "sha256:7ff51f0dff3677fef2c6b5e8084e16558464c791d884f72fd1db624b5be8ccfa",
+                "sha256:8df177402440e0c7e36633b916e8e3b4e0e02ccf400eb308e87a9fbac2882bc1"
             ],
             "index": "pypi",
-            "version": "==0.2.21"
+            "version": "==0.2.22"
         },
         "urllib3": {
             "hashes": [
