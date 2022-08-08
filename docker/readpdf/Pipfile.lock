@@ -220,11 +220,11 @@
         },
         "pypdf2": {
             "hashes": [
-                "sha256:5660d2d5ab603bab11df1a1e3feeca40747378b2521112f3952364528c1fd5e2",
-                "sha256:8b5041f70743f08cb307ce6d0f1f27b2d0613bb479730b832530cd521458806c"
+                "sha256:733f24dd34a7b13205c47a63f1c1a13a1e9de6fca98c95b457994b2880398372",
+                "sha256:b26078206221c6411ec97a5a5c08975ae79ba7ec467575d11477a99cce601eb9"
             ],
             "index": "pypi",
-            "version": "==1.28.2"
+            "version": "==2.10.0"
         }
     },
     "develop": {}
