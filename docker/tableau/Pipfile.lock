@@ -18,18 +18,18 @@
     "default": {
         "certifi": {
             "hashes": [
-                "sha256:36973885b9542e6bd01dea287b2b4b3b21236307c56324fcc3f1160f2d655ed5",
-                "sha256:e232343de1ab72c2aa521b625c80f699e356830fd0e2c620b465b304b17b0516"
+                "sha256:0d9c601124e5a6ba9712dbc60d9c53c21e34f5f641fe83002317394311bdce14",
+                "sha256:90c1a32f1d68f940488354e36370f6cca89f0f106db09518524c88d6ed83f382"
             ],
-            "markers": "python_full_version >= '3.6.0'",
-            "version": "==2022.9.14"
+            "markers": "python_version >= '3.6'",
+            "version": "==2022.9.24"
         },
         "charset-normalizer": {
             "hashes": [
                 "sha256:5a3d016c7c547f69d6f81fb0db9449ce888b418b5b9952cc5e6e66843e9dd845",
                 "sha256:83e9a75d1911279afd89352c68b45348559d1fc0506b054b346651b5e7fee29f"
             ],
-            "markers": "python_full_version >= '3.6.0'",
+            "markers": "python_version >= '3.6'",
             "version": "==2.1.1"
         },
         "defusedxml": {
@@ -53,7 +53,7 @@
                 "sha256:dd47c42927d89ab911e606518907cc2d3a1f38bbd026385970643f9c5b8ecfeb",
                 "sha256:ef103e05f519cdc783ae24ea4e2e0f508a9c99b2d4969652eed6a2e1ea5bd522"
             ],
-            "markers": "python_full_version >= '3.6.0'",
+            "markers": "python_version >= '3.6'",
             "version": "==21.3"
         },
         "pyparsing": {
@@ -66,11 +66,11 @@
         },
         "pypdf2": {
             "hashes": [
-                "sha256:5660d2d5ab603bab11df1a1e3feeca40747378b2521112f3952364528c1fd5e2",
-                "sha256:8b5041f70743f08cb307ce6d0f1f27b2d0613bb479730b832530cd521458806c"
+                "sha256:5e4cf55d1bc7afe164915848bdf3568fa56ad644cb24954e31a928efaa4760c4",
+                "sha256:d881761f6c63109a859093c91dc90a15d01ff35eacdeb92809360b9623e2c3c9"
             ],
             "index": "pypi",
-            "version": "==1.28.2"
+            "version": "==2.11.0"
         },
         "requests": {
             "hashes": [
@@ -87,6 +87,14 @@
             ],
             "index": "pypi",
             "version": "==0.22"
+        },
+        "typing-extensions": {
+            "hashes": [
+                "sha256:25642c956049920a5aa49edcdd6ab1e06d7e5d467fc00e0506c44ac86fbfca02",
+                "sha256:e6d2677a32f47fc7eb2795db1dd15c1f34eff616bcaf2cfb5e997f854fa1c4a6"
+            ],
+            "markers": "python_version < '3.10'",
+            "version": "==4.3.0"
         },
         "urllib3": {
             "hashes": [
