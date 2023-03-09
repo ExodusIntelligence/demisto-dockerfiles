@@ -1758,14 +1758,14 @@ test = ["hypothesis (>=5.5.3)", "pytest (>=6.0)", "pytest-xdist (>=1.31)"]
 
 [[package]]
 name = "parse-emails"
-version = "0.1.6"
+version = "0.1.7"
 description = "Parses an email message file and extracts the data from it."
 category = "main"
 optional = false
 python-versions = ">=3.7,<4.0"
 files = [
-    {file = "parse_emails-0.1.6-py3-none-any.whl", hash = "sha256:f4a69dd3b36b6a3e200535437682cff42d4a0c9f102471621d9c24fa91d95668"},
-    {file = "parse_emails-0.1.6.tar.gz", hash = "sha256:ee3b9786bf25c14cbdf16763786dee274b6466ed9473a702e311a1262a16bde5"},
+    {file = "parse_emails-0.1.7-py3-none-any.whl", hash = "sha256:8032756cd9b86a8e8badabacbe6c765d6e6ebeb1019dbb45b14f13e5322f38b1"},
+    {file = "parse_emails-0.1.7.tar.gz", hash = "sha256:562134c4ab9ff3f7500ec62c2c38b35ac461149f18bc79c64a59a1332e475f08"},
 ]
 
 [package.dependencies]
