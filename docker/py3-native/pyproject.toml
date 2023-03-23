@@ -60,7 +60,7 @@ cymruwhois = "*"
 simplejson = "*"
 networkx = "*"
 slackclient = "*"
-regex = "==2021.7.6"  # seems to be a bug in versions > 2022.3.2 https://stackoverflow.com/questions/71496687/dateparser-throws-regex-regex-core-error
+regex = "==2023.3.22"  # seems to be a bug in versions > 2022.3.2 https://stackoverflow.com/questions/71496687/dateparser-throws-regex-regex-core-error
 dpkt = "*"
 aiodns = "*"
 pysocks = "^1.7.0"  # must be 1.7.0 or above, cause 1.6.8 doesn't work on python 3.10
