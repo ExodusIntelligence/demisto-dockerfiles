@@ -56,10 +56,10 @@
         },
         "pyvmomi": {
             "hashes": [
-                "sha256:d39e0a177253f110d3476d91ba8879070dd35b1df17d6f9211040c906ad5d126"
+                "sha256:c832b01ab316ebfbb2a320a04b34f608ec862dbc31ad108bd6af4c329645868b"
             ],
             "index": "pypi",
-            "version": "==8.0.1.0"
+            "version": "==8.0.1.0.1"
         },
         "six": {
             "hashes": [
