@@ -171,16 +171,16 @@
                 "sha256:f8303414c7b03f794347ad062c0516cee0e15f7a612abd0ce1e25caf6ceb47df",
                 "sha256:fca62a8301b605b954ad2e9c3666f9d97f63872aa4efcae5492baca2056b74ab"
             ],
-            "markers": "python_version >= '3.7'",
+            "markers": "python_full_version >= '3.7.0'",
             "version": "==3.1.0"
         },
         "eve-client": {
             "hashes": [
-                "sha256:6637a2b4f15f4769aa531272f655ff49f4f35a3e500bbc4db57aca970fd3848c",
-                "sha256:922f00686c5827bf2ba86beaabb62a8dbf7cabd09eb58802ce41f8097c63bae0"
+                "sha256:13224d22a156cbb171cb3e5e0035a875389d502ee4babb550b8473f28e2320e3",
+                "sha256:d782c985e366481693ec1427a8d64bd584b3da818daf3c8bb502ae92b6da11d4"
             ],
             "index": "pypi",
-            "version": "==2.0.14"
+            "version": "==2.0.15"
         },
         "idna": {
             "hashes": [
@@ -234,7 +234,7 @@
                 "sha256:58cd2187c01e70e6e26505bca751777aa9f2ee0b7f4300988b709f44e013003f",
                 "sha256:942c5a758f98d790eaed1a29cb6eefc7ffb0d1cf7af05c3d2791656dbd6ad1e1"
             ],
-            "markers": "python_version >= '3.7'",
+            "markers": "python_full_version >= '3.7.0'",
             "version": "==2.31.0"
         },
         "six": {
@@ -250,7 +250,7 @@
                 "sha256:61717a1095d7e155cdb737ac7bb2f4324a858a1e2e6466f6d03ff630ca68d3cc",
                 "sha256:d055c2f9d38dc53c808f6fdc8eab7360b6fdbbde02340ed25cfbcd817c62469e"
             ],
-            "markers": "python_version >= '3.7'",
+            "markers": "python_full_version >= '3.7.0'",
             "version": "==2.0.2"
         }
     },
