@@ -33,11 +33,11 @@
         },
         "certifi": {
             "hashes": [
-                "sha256:0f0d56dc5a6ad56fd4ba36484d6cc34451e1c6548c61daad8c320169f91eddc7",
-                "sha256:c6c2e98f5c7869efca1f8916fed228dd91539f9f1b444c314c06eef02980c716"
+                "sha256:539cc1d13202e33ca466e88b2807e29f4c13049d6d87031a3c110744495cb082",
+                "sha256:92d6037539857d8206b8f6ae472e8b77db8058fec5937a1ef3f54304089edbb9"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==2023.5.7"
+            "version": "==2023.7.22"
         },
         "charset-normalizer": {
             "hashes": [
@@ -152,11 +152,11 @@
         },
         "pycti": {
             "hashes": [
-                "sha256:1fc5849f7d1819c351e76f327e5d83c54262958ca744701f3bf5086ca648e089",
-                "sha256:91e8b6830fac940eeb90bc0c4069df63f01e3f034086a040514d719fff8e9907"
+                "sha256:6564a4fd7414b2f1ac5c049a63816d1fdbb66a48fdf9971735c611dd3108e89f",
+                "sha256:88b1db386f7129ed2a5dc73116e5075cd40de2dc8caa7bb04ba87f40b82473fc"
             ],
             "index": "pypi",
-            "version": "==5.9.5"
+            "version": "==5.9.6"
         },
         "python-dateutil": {
             "hashes": [
