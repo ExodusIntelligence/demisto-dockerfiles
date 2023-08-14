@@ -18,11 +18,11 @@
     "default": {
         "argus-api": {
             "hashes": [
-                "sha256:17efcd529963cbe135e794b39b3d202b3c8450f0eae37a89016e93c2a9370875",
-                "sha256:9d0b6ebb8e47ebc6423262be7e5e60f5d1570b9c2efa3cfacbdbecb194814d6c"
+                "sha256:bd2ce6a2380e4c236c7a9fd804925ae2a37dac2e7d869befe6e4af5c516a2784",
+                "sha256:e0a5a77c5cd46735aade8c9a18d9bb12c9aa4a5bb014a452e4f4eba09918f1dc"
             ],
             "index": "pypi",
-            "version": "==3.11.1"
+            "version": "==3.11.2"
         },
         "certifi": {
             "hashes": [
@@ -152,6 +152,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==2.31.0"
+        },
+        "typing-extensions": {
+            "hashes": [
+                "sha256:440d5dd3af93b060174bf433bccd69b0babc3b15b1a8dca43789fd7f61514b36",
+                "sha256:b75ddc264f0ba5615db7ba217daeb99701ad295353c45f9e95963337ceeeffb2"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==4.7.1"
         },
         "urllib3": {
             "hashes": [
