@@ -1194,12 +1194,12 @@
         },
         "tldextract": {
             "hashes": [
-                "sha256:30a492de80f4de215aa998588ba5c2e625ee74ace3a2705cfb52b0021053bcbe",
-                "sha256:a5d8b6583791daca268a7592ebcf764152fa49617983c49916ee9de99b366222"
+                "sha256:9950afba41f7dfda3ef3fcc8fdc12790c22a662c5b4e6d1d796eff32bf7048dc",
+                "sha256:d220175f4a6367f5d2b5ad0e335292b449233b7cec7534416e7231babd00ba8e"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==3.6.0"
+            "version": "==4.0.0"
         },
         "toml": {
             "hashes": [
