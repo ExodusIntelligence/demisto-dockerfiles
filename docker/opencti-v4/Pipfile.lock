@@ -175,12 +175,12 @@
         },
         "pycti": {
             "hashes": [
-                "sha256:914f34ab2dbad2043210e84a8c3e27b5db3f866474eb67e7ce66e0f9e02c39d8",
-                "sha256:aa4e80055a5aacda5cd515ceb6e8ae4740e0e4cceb83956cbfb874ee86e81c4c"
+                "sha256:de99de08d47214245f0657de651d173b94bd200809b29f44b4c88eddbd31d26a",
+                "sha256:e5c8044ea6a9155f990a77eb5492a9294215d427e5368f11bd3af26a175de19a"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==5.11.2"
+            "version": "==5.11.4"
         },
         "python-dateutil": {
             "hashes": [
@@ -509,11 +509,11 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:7a7c7003b000adf9e7ca2a377c9688bbc54ed41b985789ed576570342a375cd2",
-                "sha256:b19e1a85d206b56d7df1d5e683df4a7725252a964e3993648dd0fb5a1c157564"
+                "sha256:c97dfde1f7bd43a71c8d2a58e369e9b2bf692d1334ea9f9cae55add7d0dd0f84",
+                "sha256:fdb6d215c776278489906c2f8916e6e7d4f5a9b602ccbcfdf7f016fc8da0596e"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2.0.6"
+            "version": "==2.0.7"
         }
     },
     "develop": {}
