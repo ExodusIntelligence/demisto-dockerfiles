@@ -433,7 +433,7 @@
                 "sha256:9ecdbbd083b06798ae1e86adcbfe8ab1479cf864e4ee30fe4e46a003d12491ca",
                 "sha256:c05567e9c24a6b9faaa835c4821bad0590fbb9d5779e7caa6e1cc4978e7eb24f"
             ],
-            "markers": "python_version >= '3'",
+            "markers": "python_version >= '3.5'",
             "version": "==3.6"
         },
         "imap-tools": {
@@ -1123,12 +1123,12 @@
         },
         "tweepy": {
             "hashes": [
-                "sha256:8d4b4520271b796fa7efc4c5d5ef3228af4d79f6a4d3ace3900b2778ed8f6f1c",
-                "sha256:cf02c4fbbd027fbc7172c24d03f53f061329ac040b22d201e59592a1cff86364"
+                "sha256:1f9f1707d6972de6cff6c5fd90dfe6a449cd2e0d70bd40043ffab01e07a06c8c",
+                "sha256:db6d3844ccc0c6d27f339f12ba8acc89912a961da513c1ae50fa2be502a56afb"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.6'",
-            "version": "==4.4.0"
+            "markers": "python_version >= '3.7'",
+            "version": "==4.14.0"
         },
         "types-python-dateutil": {
             "hashes": [
