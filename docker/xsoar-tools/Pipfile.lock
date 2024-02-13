@@ -108,11 +108,11 @@
         },
         "certifi": {
             "hashes": [
-                "sha256:539cc1d13202e33ca466e88b2807e29f4c13049d6d87031a3c110744495cb082",
-                "sha256:92d6037539857d8206b8f6ae472e8b77db8058fec5937a1ef3f54304089edbb9"
+                "sha256:0569859f95fc761b18b45ef421b1290a0f65f147e92a1e5eb3e635f9a5e4e66f",
+                "sha256:dc383c07b76109f368f6106eee2b593b04a011ea4d55f652c6ca24a754d1cdd1"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==2023.7.22"
+            "version": "==2024.2.2"
         },
         "cffi": {
             "hashes": [
@@ -421,12 +421,12 @@
         },
         "demisto-py": {
             "hashes": [
-                "sha256:3cf8779c0a37d57b9c3317abfbd6f2c021980675f294652c70488f24cc162146",
-                "sha256:46881ed6bb0a0be78aefa81dade55271b18a50b277b03f3127b0a7d7ba0454e4"
+                "sha256:4d6af4e89b5232bffe7f0a48bd3c187ef58f9f494af049c2dbd27e10fccc3f62",
+                "sha256:aa6bf1fa3ff93f30de53f0a145840c50bd25cd9b471dc93257c2603862047e0a"
             ],
             "index": "pypi",
-            "markers": "python_version < '3.11' and python_version >= '3.8'",
-            "version": "==3.2.13"
+            "markers": "python_version <= '3.12' and python_version >= '3.8'",
+            "version": "==3.2.14"
         },
         "demisto-sdk": {
             "hashes": [
@@ -1955,11 +1955,11 @@
         },
         "tzlocal": {
             "hashes": [
-                "sha256:67d7e7f4ce0a98e9dfde2e02474c60fe846ed032d78b555c554c2e9cba472d84",
-                "sha256:ee32ef8c20803c19a96ed366addd3d4a729ef6309cb5c7359a0cc2eeeb7fa46a"
+                "sha256:49816ef2fe65ea8ac19d19aa7a1ae0551c834303d5014c6d5a62e4cbda8047b8",
+                "sha256:8d399205578f1a9342816409cc1e46a93ebd5755e39ea2d85334bea911bf0e6e"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==4.3.1"
+            "markers": "python_version >= '3.8'",
+            "version": "==5.2"
         },
         "ujson": {
             "hashes": [
@@ -2030,11 +2030,11 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:8d36afa7616d8ab714608411b4a3b13e58f463aee519024578e062e141dce20f",
-                "sha256:8f135f6502756bde6b2a9b28989df5fbe87c9970cecaa69041edcce7f0589b14"
+                "sha256:34b97092d7e0a3a8cf7cd10e386f401b3737364026c45e622aa02903dffe0f07",
+                "sha256:f8ecc1bba5667413457c529ab955bf8c67b45db799d159066261719e328580a0"
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'",
-            "version": "==1.26.16"
+            "version": "==1.26.18"
         },
         "virtualenv": {
             "hashes": [
