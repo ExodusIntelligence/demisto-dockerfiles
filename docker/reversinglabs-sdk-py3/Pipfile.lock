@@ -158,12 +158,12 @@
         },
         "reversinglabs-sdk-py3": {
             "hashes": [
-                "sha256:0c2105fbf03797278f1bd0bcd66a741795a43a6d2b4700834a09bd77f879ab79",
-                "sha256:c38a5c7f5fb8844162c8c945c6b7f0de0c83c0a5ade7831a0c93f2b9feaaf7c4"
+                "sha256:11b12fe13a22aca1da3f0c6bcb46eb25e48b46a8765cd3069bed4aebeca7307f",
+                "sha256:660d66ffb91ee0b786eead98f5250f896c36efe15318381d0cece915ac6ee55c"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.6'",
-            "version": "==2.5.2"
+            "version": "==2.5.3"
         },
         "six": {
             "hashes": [
