@@ -18,12 +18,12 @@
     "default": {
         "argus-api": {
             "hashes": [
-                "sha256:3ae2efe62f5978c193392f838d003140c20dd2ea4d780645b53b966f8fc8a946",
-                "sha256:4f0e40d86b34fbe74bfe0984b65898a1a669a38596274685326665a2a3e4b546"
+                "sha256:55d9439c90e58664b8abc4578991307c6ea2adaf85c36fdf3b55d806196f361c",
+                "sha256:6598a2d8cc08d99a424eae893cd8689fecb7f0c5dceb9e672031443cd7d65ca0"
             ],
             "index": "pypi",
             "markers": "python_full_version >= '3.6.2' and python_full_version < '4.0.0'",
-            "version": "==3.14.0"
+            "version": "==3.15.0"
         },
         "certifi": {
             "hashes": [
@@ -163,11 +163,11 @@
         },
         "requests": {
             "hashes": [
-                "sha256:58cd2187c01e70e6e26505bca751777aa9f2ee0b7f4300988b709f44e013003f",
-                "sha256:942c5a758f98d790eaed1a29cb6eefc7ffb0d1cf7af05c3d2791656dbd6ad1e1"
+                "sha256:21ac9465cdf8c1650fe1ecde8a71669a93d4e6f147550483a2967d08396a56a5",
+                "sha256:eb97e87e64c79e64e5b8ac75cee9dd1f97f49e289b083ee6be96268930725685"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==2.31.0"
+            "markers": "python_version >= '3.8'",
+            "version": "==2.32.1"
         },
         "typing-extensions": {
             "hashes": [
@@ -187,11 +187,11 @@
         },
         "zipp": {
             "hashes": [
-                "sha256:206f5a15f2af3dbaee80769fb7dc6f249695e940acca08dfb2a4769fe61e538b",
-                "sha256:2884ed22e7d8961de1c9a05142eb69a247f120291bc0206a00a7642f09b5b715"
+                "sha256:6278d9ddbcfb1f1089a88fde84481528b07b0e10474e09dcfe53dad4069fa059",
+                "sha256:dce197b859eb796242b0622af1b8beb0a722d52aa2f57133ead08edd5bf5374e"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==3.18.1"
+            "version": "==3.18.2"
         }
     },
     "develop": {}
