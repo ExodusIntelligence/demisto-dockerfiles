@@ -149,12 +149,12 @@
         },
         "google-cloud-container": {
             "hashes": [
-                "sha256:18a258cc51c28451911181d403db1373cb0bd9708032738c0873a0fe0da400ad",
-                "sha256:d9d2fe5e3dfbbc545243ec844ad551348a7f09e65d40ae9538fa5cc466001251"
+                "sha256:ab205965fda7887837920140a27159f671262abf4f72490f33f6b41ab73e99e5",
+                "sha256:bc0dc8f1f25e33bc1f1884b4c0049cb5a1f3d4c2d183b1443059afffd6019521"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==2.47.1"
+            "version": "==2.48.0"
         },
         "googleapis-common-protos": {
             "hashes": [
