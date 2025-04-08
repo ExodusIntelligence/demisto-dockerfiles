@@ -185,11 +185,11 @@
         },
         "filelock": {
             "hashes": [
-                "sha256:08c21d87ded6e2b9da6728c3dff51baf1dcecf973b768ef35bcbc3447edb9ad4",
-                "sha256:2e6f249f1f3654291606e046b09f1fd5eac39b360664c27f5aad072012f8bcbd"
+                "sha256:adbc88eabb99d2fec8c9c1b229b171f18afa655400173ddc653d5d01501fb9f2",
+                "sha256:c401f4f8377c4464e6db25fff06205fd89bdd83b65eb0488ed1b160f780e21de"
             ],
-            "markers": "python_version >= '3.8'",
-            "version": "==3.12.4"
+            "markers": "python_version >= '3.9'",
+            "version": "==3.18.0"
         },
         "funcy": {
             "hashes": [
@@ -455,10 +455,10 @@
         },
         "requests-file": {
             "hashes": [
-                "sha256:07d74208d3389d01c38ab89ef403af0cfec63957d53a0081d8eca738d0247d8e",
-                "sha256:dfe5dae75c12481f68ba353183c53a65e6044c923e64c24b2209f6c7570ca953"
+                "sha256:0f549a3f3b0699415ac04d167e9cb39bccfb730cb832b4d20be3d9867356e658",
+                "sha256:cf270de5a4c5874e84599fc5778303d496c10ae5e870bfa378818f35d21bda5c"
             ],
-            "version": "==1.5.1"
+            "version": "==2.1.0"
         },
         "six": {
             "hashes": [
@@ -470,11 +470,12 @@
         },
         "tldextract": {
             "hashes": [
-                "sha256:30a492de80f4de215aa998588ba5c2e625ee74ace3a2705cfb52b0021053bcbe",
-                "sha256:a5d8b6583791daca268a7592ebcf764152fa49617983c49916ee9de99b366222"
+                "sha256:59509cbf99628c9440f4d19d3a1fd8488d50297ea23879c136576263c5a04eba",
+                "sha256:c3a8c4daf2c25a57f54d6ef6762aeac7eff5ac3da04cdb607130be757b8457ab"
             ],
             "index": "pypi",
-            "version": "==3.6.0"
+            "markers": "python_version >= '3.9'",
+            "version": "==5.2.0"
         },
         "tzlocal": {
             "hashes": [
