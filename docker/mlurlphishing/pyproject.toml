@@ -12,7 +12,7 @@ scikit-learn = "==1.7.2"
 pandas = "==1.5.3"
 beautifulsoup4 = "*"
 dill = "==0.4.1"
-catboost = "==1.2.9"
+catboost = "==1.2.10"
 
 
 [build-system]
