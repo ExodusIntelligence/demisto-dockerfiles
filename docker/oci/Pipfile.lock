@@ -193,11 +193,11 @@
         },
         "oci": {
             "hashes": [
-                "sha256:758ab7e5360c70ba7565c8313a893910e8be4f3643b5bdb073cb3f6adde952e0",
-                "sha256:c7a97d218b8bb0bc7c7132e6c060262a6ece026dd7746c979108e5c453ba9234"
+                "sha256:b941674171b41e999b8e3adb38d4797d7b42d2bb5ff40d17c26e8ce2a7d4b605",
+                "sha256:d106cfffc9153b5c9de628877c967ed87bbbfbbc9d411c97feee0eba8f2e4eab"
             ],
             "index": "pypi",
-            "version": "==2.168.0"
+            "version": "==2.168.1"
         },
         "pycparser": {
             "hashes": [
@@ -232,10 +232,10 @@
         },
         "pytz": {
             "hashes": [
-                "sha256:10413c35476919b4c07bda6b9810c6e24d914378c430070bdb1869e18a37eee5",
-                "sha256:b07ec0ea0aec75b9a5c4632191fa30d79ef6fb42d4a5358ea64552dcac2c8957"
+                "sha256:3378dde6a0c3d26719182142c56e60c7f9af7e968076f31aae569d72a0358ee1",
+                "sha256:f2fd16142fda348286a75e1a524be810bb05d444e5a081f37f7affc635035f7a"
             ],
-            "version": "==2026.1"
+            "version": "==2026.1.post1"
         },
         "six": {
             "hashes": [
