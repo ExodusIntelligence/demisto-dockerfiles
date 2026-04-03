@@ -202,11 +202,12 @@
         },
         "more-itertools": {
             "hashes": [
-                "sha256:cabaa341ad0389ea83c17a94566a53ae4c9d07349861ecb14dc6d0345cf9ac5d",
-                "sha256:d2bc7f02446e86a68911e58ded76d6561eea00cddfb2a91e7019bbb586c799f3"
+                "sha256:eaf287826069452a8f61026c597eae2428b2d1ba2859083abbf240b46842ce6d",
+                "sha256:fefaf25b7ab08f0b45fa9f1892cae93b9fc0089ef034d39213bce15f1cc9e199"
             ],
             "index": "pypi",
-            "version": "==9.1.0"
+            "markers": "python_version >= '3.10'",
+            "version": "==11.0.1"
         },
         "olefile": {
             "hashes": [
