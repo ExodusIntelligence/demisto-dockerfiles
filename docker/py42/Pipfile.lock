@@ -161,12 +161,12 @@
         },
         "dateparser": {
             "hashes": [
-                "sha256:08d62f2c00d3a1e806fc59d40c79e7554e31d84d3b8c6145820af051c92e7292",
-                "sha256:7c4e088f25458f57db391510035af0878439a6df71d159318dcdb0a7553932e3"
+                "sha256:1c3d4a568b4f4d615adfc2945b54596adffc14f955c9b435030b5236226a4366",
+                "sha256:1d312d2dbc3cddd61fe96d336af733b54bd01d7beb5657a432c7d1c2a144a5c8"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.10'",
-            "version": "==1.5.0"
+            "version": "==1.5.1"
         },
         "funcy": {
             "hashes": [
